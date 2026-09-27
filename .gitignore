@@ -1,0 +1,25 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+
+# Jupyter and editor files
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp

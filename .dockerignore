@@ -1,0 +1,13 @@
+
+.venv/
+venv/
+.git/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.pytest_cache/
+.env
+data/
+src/
+references/
+Project Summary/
