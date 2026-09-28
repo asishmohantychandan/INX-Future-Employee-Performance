@@ -23,6 +23,6 @@ __pycache__/
 
 # Temporary files
 *.tmp
-echo "data/" >> .gitignore
-echo "references/" >> .gitignore
+data/
+references/
 
